@@ -1,0 +1,53 @@
+{
+  "projects": [
+    {
+      "id": "discord",
+      "title": "Discord Community",
+      "description": "Joine unseren Discord Server!",
+      "features": [
+        "Community",
+        "Hilfe für Coding und mehr",
+        "Minecraft Stuff",
+        "Und vieles mehr!"
+      ],
+      "primaryButton": {
+        "text": "Joinen",
+        "url": "https://grueneeule.de/l/dc",
+        "class": "btn-discord"
+      },
+      "secondaryButton": null,
+      "cardClass": "discord-card"
+    },
+    {
+      "id": "toollab",
+      "title": "ToolLab",
+      "description": "Entdecke den Link Shortener den du brauchst:",
+      "features": [
+        "Open Source",
+        "Privat"
+      ],
+      "primaryButton": {
+        "text": "Mehr",
+        "url": "https://toollab.grueneeule.de/",
+        "class": "btn-discord"
+      },
+      "cardClass": "toollab-card"
+    },
+        {
+      "id": "gaming",
+      "title": "Gaming",
+      "description": "Entdecke die erweiterungen für dein Lieblingsspiel:",
+      "features": [
+        "Minecraft",
+        "Modpacks",
+        "Und vieles mehr!"
+      ],
+      "primaryButton": {
+        "text": "Mehr",
+        "url": "https://gaming.grueneeule.de/",
+        "class": "btn-discord"
+      },
+      "cardClass": "gaming-card"
+    }
+  ]
+}
