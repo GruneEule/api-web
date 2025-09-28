@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "yoast_head_json": {
+      "title": "Erster Blogpost - NoRisk Client Blog",
+      "og_image": [
+        { "url": "https://grueneeule.de/assets/img/news/1.png" }
+      ],
+      "og_url": "https://grueneeule.de/blog/post1"
+    }
+  },
+  {
+    "id": 2,
+    "yoast_head_json": {
+      "title": "Zweiter Blogpost - NoRisk Client Blog",
+      "og_image": [
+        { "url": "https://grueneeule.de/assets/img/news/1.png" }
+      ],
+      "og_url": "https://grueneeule.de/blog/post2"
+    }
+  }
+]
