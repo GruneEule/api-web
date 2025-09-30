@@ -1,0 +1,6 @@
+{
+  "version": "0.0.0",
+  "windows": "https://api.grueneeule.de/v1/geg/launcher/releases/launcher-1.0.2.exe",
+  "mac": "https://api.grueneeule.de/v1/geg/launcher/releases/launcher-1.0.2.dmg",
+  "linux": "https://api.grueneeule.de/v1/geg/launcher/releases/launcher-1.0.2.AppImage"
+}
