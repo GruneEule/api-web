@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "title": "Offiziell",
+      "icon": "info",
+      "pages": [
+        {
+          "title": "tWfEE Main Page",
+          "description": "Unsere Hauptseite für WEE",
+          "url": "/wee"
+        },
+        {
+          "title": "tWfEE Wiki",
+          "description": "Das Wiki für WEE",
+          "url": "/wee/wiki"
+        }
+      ]
+    },
+    {
+      "title": "JumpStone",
+      "icon": "community",
+      "pages": [
+        {
+          "title": "The glass Clock",
+          "description": "Eine einfache Uhr als Bildschirmschoner.",
+          "url": "/wee/all/js-clock.html"
+        }
+      ]
+    }
+  ]
+}
