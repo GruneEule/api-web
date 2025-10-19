@@ -7,12 +7,12 @@
         {
           "title": "tWfEE Main Page",
           "description": "Unsere Hauptseite für WEE",
-          "url": "/wee"
+          "url": "/"
         },
         {
           "title": "tWfEE Wiki",
           "description": "Das Wiki für WEE",
-          "url": "/wee/wiki"
+          "url": "/wiki"
         }
       ]
     },
@@ -23,7 +23,7 @@
         {
           "title": "The glass Clock",
           "description": "Eine einfache Uhr als Bildschirmschoner.",
-          "url": "/wee/all/js-clock.html"
+          "url": "/community/pages/js-clock.html"
         }
       ]
     }
