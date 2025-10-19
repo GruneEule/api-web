@@ -5,13 +5,13 @@
       "icon": "info",
       "pages": [
         {
-          "title": "tWfEE Main Page",
-          "description": "Unsere Hauptseite für WEE",
+          "title": "ToolLab",
+          "description": "Unsere Hauptseite für ToolLab",
           "url": "/"
         },
         {
-          "title": "tWfEE Wiki",
-          "description": "Das Wiki für WEE",
+          "title": "Wiki",
+          "description": "Das Wiki für ToolLab",
           "url": "/wiki"
         }
       ]
