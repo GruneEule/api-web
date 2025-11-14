@@ -1,5 +1,22 @@
 {
-  "version": "0.2.0",
-  "windows": "https://github.com/GruneEule/geg-launcher/releases/download/v0.2.0-beta/GEG-Launcher-Windows-setup.exe",
-  "linux": "https://github.com/GruneEule/geg-launcher/releases/download/v0.2.0-beta/GEG-Launcher-Linux.AppImage"
+  "current": {
+    "version": "0.6.12",
+    "windows": "https://github.com/GruneEule/geg-launcher/releases/download/v0.2.0-beta/GEG-Launcher-Windows-setup.exe",
+    "linux": "https://github.com/GruneEule/geg-launcher/releases/download/v0.2.0-beta/GEG-Launcher-Linux.AppImage",
+    "macos": null
+  },
+  "versions": [
+    {
+      "version": "0.6.12",
+      "windows": "https://github.com/GruneEule/geg-launcher/releases/download/v0.2.0-beta/GEG-Launcher-Windows-setup.exe",
+      "linux": "https://github.com/GruneEule/geg-launcher/releases/download/v0.2.0-beta/GEG-Launcher-Linux.AppImage",
+      "macos": null
+    },
+    {
+      "version": "0.2.0", 
+      "windows": "https://github.com/GruneEule/geg-launcher/releases/download/v0.3.0-beta/GEG-Launcher-Windows-setup.exe",
+      "linux": "https://github.com/GruneEule/geg-launcher/releases/download/v0.3.0-beta/GEG-Launcher-Linux.AppImage",
+      "macos": null
+    }
+  ]
 }
