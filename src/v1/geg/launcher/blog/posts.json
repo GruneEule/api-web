@@ -2,21 +2,21 @@
   {
     "id": 1,
     "yoast_head_json": {
-      "title": "Erster Blogpost - GEG Launcher Blog",
+      "title": "News Modul endlich fertig!",
       "og_image": [
         { "url": "https://cdn.grueneeule.de/img/news/1.png" }
       ],
-      "og_url": "https://grueneeule.de/blog/post1"
+      "og_url": "https://grueneeule.de/de/news/news-detail.html?id=1"
     }
   },
   {
     "id": 2,
     "yoast_head_json": {
-      "title": "Zweiter Blogpost - GEG Launcher Blog",
+      "title": "tWfEE RELEASE JETZT ONLINE",
       "og_image": [
         { "url": "https://cdn.grueneeule.de/img/news/2.png" }
       ],
-      "og_url": "https://grueneeule.de/blog/post2"
+      "og_url": "https://grueneeule.de/de/news/news-detail.html?id=2"
     }
   }
 ]
