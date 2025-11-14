@@ -10,7 +10,7 @@
       ],
       "primaryButton": {
         "text": "Go",
-        "url": "/games/minecraft",
+        "url": "https://grueneeule.de/de/gaming/games/minecraft",
         "class": "btn-discord"
       },
       "secondaryButton": null,
