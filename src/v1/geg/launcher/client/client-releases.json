@@ -1,0 +1,12 @@
+{
+  "current": {
+    "version": "0.1.0",
+    "mrpack": "https://cdn.grueneeule.de/zip/geg/client/v0.1.0-beta.mrpack"
+  },
+  "versions": [
+    {
+      "version": "0.1.0",
+      "mrpack": "https://cdn.grueneeule.de/zip/geg/client/v0.1.0-beta.mrpack"
+    }
+  ]
+}
