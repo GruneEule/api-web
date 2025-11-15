@@ -14,5 +14,13 @@
     "content": "Die tWfEE Seite wurde veröffentlich!",
     "image": "https://cdn.grueneeule.de/img/news/2.png",
     "fullContentPath": "https://api.grueneeule.de/v1/news/content/2.md"
+  },
+  {
+    "id": 3,
+    "title": "GEG Launcher Closed Beta gestartet",
+    "date": "2025-11-15",
+    "content": "Der GEG Launcher ist jetzt in der Closed Beta verfügbar!",
+    "image": "https://cdn.grueneeule.de/img/news/3.png",
+    "fullContentPath": "https://api.grueneeule.de/v1/news/content/3.md"
   }
 ]
