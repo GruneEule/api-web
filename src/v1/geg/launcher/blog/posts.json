@@ -18,5 +18,15 @@
       ],
       "og_url": "https://grueneeule.de/de/news/news-detail.html?id=2"
     }
+  },
+  {
+    "id": 3,
+    "yoast_head_json": {
+      "title": "GEG Launcher Closed Beta gestartet",
+      "og_image": [
+        { "url": "https://cdn.grueneeule.de/img/news/3.png" }
+      ],
+      "og_url": "https://grueneeule.de/de/news/news-detail.html?id=3"
+    }
   }
 ]
