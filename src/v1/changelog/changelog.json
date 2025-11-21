@@ -1,0 +1,65 @@
+[
+  {
+    "id": 101,
+    "version": "2.4.0",
+    "date": "2024-01-15",
+    "product": "GrüneEule Gaming",
+    "category": "geg-gaming",
+    "tags": [
+      "Feature",
+      "Event"
+    ],
+    "description": "Das große Winter-Event ist gestartet!",
+    "changes": [
+      "Neue Winter-Map hinzugefügt",
+      "Schneeball-Items im Shop verfügbar",
+      "Performance auf älteren Geräten verbessert"
+    ]
+  },
+  {
+    "id": 102,
+    "version": "1.1.2",
+    "date": "2024-01-10",
+    "product": "GEG Launcher",
+    "category": "geg-launcher",
+    "tags": [
+      "Bugfix"
+    ],
+    "description": "Hotfix für Login-Probleme.",
+    "changes": [
+      "Fehler behoben, bei dem der Token nicht gespeichert wurde",
+      "Ladeanimation ruckelt nicht mehr"
+    ]
+  },
+  {
+    "id": 103,
+    "version": "3.0.0",
+    "date": "2023-12-20",
+    "product": "ToolLab Owlinx",
+    "category": "toollab-owlinx",
+    "tags": [
+      "Major Update"
+    ],
+    "description": "Kompletter Rewrite des Backends für Owlinx.",
+    "changes": [
+      "Antwortzeiten der API um 200ms verbessert",
+      "Neues Dashboard für User-Statistiken",
+      "Unterstützung für Custom-Domains"
+    ]
+  },
+  {
+    "id": 104,
+    "version": "0.8.5",
+    "date": "2023-12-15",
+    "product": "ToolLab Do-Log-it",
+    "category": "toollab-dologit",
+    "tags": [
+      "Feature"
+    ],
+    "description": "Neue Filtermöglichkeiten im Log-Stream.",
+    "changes": [
+      "Filter nach Severity Level (Info, Warn, Error)",
+      "Suche unterstützt nun Regex"
+    ]
+  }
+]
