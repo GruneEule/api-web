@@ -44,7 +44,7 @@
       ],
       "primaryButton": {
         "text": "Mehr",
-        "url": "https://gaming.grueneeule.de/",
+        "url": "https://grueneeule.de/de/gaming",
         "class": "btn-discord"
       },
       "cardClass": "gaming-card"
