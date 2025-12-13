@@ -13,5 +13,32 @@
       "Changelog",
       "Changelog Editor"
     ]
+  },
+  {
+    "id": 1765635541726,
+    "version": "2.2.0",
+    "date": "2025-12-13",
+    "product": "GE Website",
+    "category": "General",
+    "tags": [
+      "Major Update"
+    ],
+    "description": "Seiten von Subdomains auf Hauptseite verschoben.",
+    "changes": [
+      "GrüneEule Gaming",
+      "GrüneEule ToolLab"
+    ]
+  },
+  {
+    "id": 1765635578569,
+    "version": "2.1.0",
+    "date": "2025-12-01",
+    "product": "GE Website",
+    "category": "General",
+    "tags": [
+      "Design"
+    ],
+    "description": "Weihnachtsdesign",
+    "changes": []
   }
 ]
