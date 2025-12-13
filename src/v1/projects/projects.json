@@ -28,7 +28,7 @@
       ],
       "primaryButton": {
         "text": "Mehr",
-        "url": "https://toollab.grueneeule.de/",
+        "url": "https://grueneeule.de/de/toollab",
         "class": "btn-discord"
       },
       "cardClass": "toollab-card"
